@@ -1,0 +1,8 @@
+[workspace]
+members = [
+  "common",
+  "backend",
+  "cli",
+  "connectors/trivy",
+  "connectors/bitbucket"
+]
