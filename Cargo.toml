@@ -3,6 +3,9 @@ members = [
   "common",
   "backend",
   "cli",
+  "connectors/dns",
+  "connectors/tls",
   "connectors/trivy",
-  "connectors/bitbucket"
+  "connectors/bitbucket",
+  "connectors/artifacthub",
 ]
